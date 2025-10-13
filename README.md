@@ -234,8 +234,7 @@ r.ProgFinish(r"""Mainprog""")
 r.ProgSave(r"""C:/Users/Sudharshna/Documents/RoboDK""",r"""Mainprog""",True,r"""E:/RoboDK/Other/VSCodium/VSCodium.exe""")
 ```
  
-Developed by: T.Rishabh srivatsav
-RegisterNumber: 25001966
+
 */
-simulation:
+simulation: </br>
  ![image](https://github.com/user-attachments/assets/b4127737-178f-402c-b70c-b52d77e2a1ef)
