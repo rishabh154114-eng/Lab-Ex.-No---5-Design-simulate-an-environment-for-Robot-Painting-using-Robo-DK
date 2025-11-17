@@ -236,8 +236,8 @@ r.ProgSave(r"""C:/Users/Sudharshna/Documents/RoboDK""",r"""Mainprog""",True,r"""
 ```
  
 
-*/
-simulation: </br>
+
+## simulation: </br>
  ![image](https://github.com/user-attachments/assets/b4127737-178f-402c-b70c-b52d77e2a1ef)
 
  ## Result :
